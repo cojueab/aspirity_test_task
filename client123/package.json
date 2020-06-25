@@ -16,7 +16,7 @@
     "babel-preset-react": "^6.24.1",
     "compression-webpack-plugin": "^1.0.1",
     "css-loader": "^0.28.7",
-    "eslint": "^4.10.0",
+    "eslint": "^4.18.2",
     "eslint-config-standard": "^10.2.1",
     "eslint-config-standard-react": "^5.0.0",
     "eslint-plugin-import": "^2.8.0",
